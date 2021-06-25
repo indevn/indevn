@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a student of EE at XDU.
-I am currently learning Cpp&Computer Graphics. And I am going to update my notes and codes on CG in my repo.
-I will be pleasure if you follow me (XD. 
-You could contact me by email: indevn@outlook.com
+I am a student of EE at XDU.  
+I am currently learning Cpp&Computer Graphics. And I am going to update my notes and codes on CG in my repo.  
+I will be pleasure if you follow me (XD.   
+You could contact me by email: indevn@outlook.com  
