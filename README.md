@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 I am a student of EE at XDU.  
 I am currently learning Cpp&Computer Graphics. And I am going to update my notes and codes on CG in my repo.  
 I will be pleasure if you follow me.  
