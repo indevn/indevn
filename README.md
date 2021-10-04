@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a student at School of Telecommunications Engineering, Xidian University.  
-I'm currently learning C++ and Computer Graphics. And I am going to update my notes and codes on CG in my repo.    
+I'm currently learning C++ and Computer Graphics. And I am going to update my notes and codes on CG in my repo.  
+Recently, I focus on finish and refactoring my render.  
 I will be pleasure if you follow me.  
 Do not hesitate to contact me(by email) if you have any things or questions want to discuss. 
