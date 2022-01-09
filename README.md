@@ -5,8 +5,8 @@ Recently, I focus on finish and refactoring my render.
 I will be pleasure if you follow me.  
 Do not hesitate to contact me if you have any things or questions want to discuss. 
 
+[![indevn's GitHub stats](https://github-readme-stats.vercel.app/api?username=indevn)](https://github.com/anuraghazra/github-readme-stats) 
+
 *Reach me by  
 MY WEBSITE: indevn.com  
 MY EMAIL: indevn@outlook.com*
-
-[![indevn's GitHub stats](https://github-readme-stats.vercel.app/api?username=indevn)](https://github.com/anuraghazra/github-readme-stats) 
