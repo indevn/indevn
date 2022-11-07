@@ -11,4 +11,5 @@ I'm an undergraduate student at School of Telecommunications Engineering, Xidian
 I'm currently learning C++ and Computer Graphics (Rendering).  
 For more information about me, see my *[about page](https://www.indevn.com/about/)*.  
 Do not hesitate to contact me if you have any things or questions want to discuss.  
+Erman SHI is the rest of my life.  
 EMail: [indevn@outlook.com](mailto:indevn@outlook.com) 
